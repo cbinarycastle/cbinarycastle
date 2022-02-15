@@ -24,6 +24,6 @@
 
 ## 🔍 Github Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cbinarycastle&show_icons=true&locale=en" alt="cbinarycastle" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cbinarycastle&" alt="cbinarycastle" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cbinarycastle&theme=radical&show_icons=true&locale=en" alt="cbinarycastle" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cbinarycastle&theme=radical&" alt="cbinarycastle" />
 </p>
