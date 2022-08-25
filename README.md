@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About me
 - 💻 I'm Android development engineer
-- 🔭 I’m currently working on [Betty](https://github.com/seongsoft/betty-android)
+- 🔭 I’m currently working on [GBDiary](https://github.com/cbinarycastle/gbdiary)
 - 📫 How to reach me **cbinarycastle@gmail.com**
 
 ## 📚 Skills
