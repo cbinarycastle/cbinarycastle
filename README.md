@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About me
 - 💻 I'm Android development engineer
-- 🔭 I’m currently working on [GBDiary](https://github.com/cbinarycastle/gbdiary)
+- 🔭 I’m currently working on [KakaoBank](https://www.kakaobank.com)
 - 📫 How to reach me **cbinarycastle@gmail.com**
 
 ## 📚 Skills
